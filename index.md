@@ -10,6 +10,9 @@ Our next meetup is going to be on Saturday, 6 February 2021 at 18:00 CET. It wil
 
 New to Emacs? Longtime elisp expert? Just want to know what this is all about? Come join us! Can you give a presentation? Awesome, let us know.
 
+## Welcome beginner's
+If you would like a basic introduction to Emacs, or you’re starting out and have some questions, then we are more than happy to help you. Just show up to a meeting, and there will be somebody to help you up to speed.
+
 You can use the [editor on GitHub](https://github.com/janprunk/emacs.si/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
