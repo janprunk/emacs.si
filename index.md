@@ -1,5 +1,8 @@
 ## Welcome to Emacs Slovenia
 
+## About Emacs Slovenia
+We are Emacs enthusiasts from Slovenia. You can chat with us on /server irc.freenode.net channel #emacs.si
+
 You can use the [editor on GitHub](https://github.com/janprunk/emacs.si/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
