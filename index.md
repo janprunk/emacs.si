@@ -2,6 +2,7 @@
 
 ## About Emacs Slovenia
 We are Emacs enthusiasts from Slovenia. You can chat with us on IRC /server irc.freenode.net channel #emacs.si
+
 Virtual meetings happen every first Saturday at 18:00 CET on IRC.
 
 ## 6 February 2021 (remote) Meetup
