@@ -1,7 +1,13 @@
 ## Welcome to Emacs Slovenia
 
 ## About Emacs Slovenia
-We are Emacs enthusiasts from Slovenia. You can chat with us on /server irc.freenode.net channel #emacs.si
+We are Emacs enthusiasts from Slovenia. You can chat with us on IRC /server irc.freenode.net channel #emacs.si
+Virtual meetings happen every first Saturday at 18:00 CET on IRC.
+
+## 6 February 2021 (remote) Meetup
+Our next meetup is going to be on Saturday, 6 February 2021 at 18:00 CET. It will take place on IRC channel #emacs.si
+
+New to Emacs? Longtime elisp expert? Just want to know what this is all about? Come join us! Can you give a presentation? Awesome, let us know.
 
 You can use the [editor on GitHub](https://github.com/janprunk/emacs.si/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
