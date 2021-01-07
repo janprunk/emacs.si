@@ -12,6 +12,6 @@ Our next meetup will be on Saturday, 6 February 2021 at 18:00 CET. Our virtual m
 ## Welcome beginner's
 New to Emacs? Longtime elisp expert? Just want to know what this is all about? Come join us! Can you give a presentation? Awesome, let us know. If you would like a basic introduction to Emacs, or you’re starting out and have some questions, then we are more than happy to help you. Just show up to a meeting, and there will be somebody to help you up to speed.
 
-## Tutorials
+## External links
 * [Absolute beginners guide to Emacs](http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/)
 * [Sacha Chua's weekly Emacs blog](https://sachachua.com/blog)
