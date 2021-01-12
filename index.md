@@ -1,7 +1,7 @@
 # Welcome to Emacs Slovenia
 
 ## About Emacs Slovenia
-We are Emacs enthusiasts in|from Slovenia. You can join our [FSFE Group Slovenia mailing list](https://lists.fsfe.org/mailman/listinfo/fsfe-si). We also meet online on [freenode](http://www.freenode.net) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network. You can chat with us, by joining the server irc.freenode.net and channel [#emacs.si](https://webchat.freenode.net/#emacs.si)
+We are Emacs enthusiasts in|from Slovenia. You can join our [FSFE Group Slovenia mailing list](https://lists.fsfe.org/mailman/listinfo/fsfe-si). Our live chat channels are on [Discord](https://discord.com), you can join Discord "Emacs Slovenia" group by clicking the [invitation link](https://discord.gg/GDdWgMaCwc). We also meet online on [freenode](http://www.freenode.net) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network. You can chat with us, by joining the server irc.freenode.net and channel [#emacs.si](https://webchat.freenode.net/#emacs.si)
 
 ## 4 February 2021 (remote) Meetup
 Our next meetup will be on Thursday, 4 February 2021 at 20:00 CET. Our virtual meetings happen every first Thursday at 20:00 CET on [freenode](http://www.freenode.net) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network in channel [#emacs.si](https://webchat.freenode.net/#emacs.si)
