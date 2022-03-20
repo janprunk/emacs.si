@@ -21,3 +21,4 @@ New to Emacs? Longtime elisp expert? Just want to know what this is all about? C
 ## External links
 * [Absolute beginners guide to Emacs](http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/)
 * [Sacha Chua's weekly Emacs blog](https://sachachua.com/blog)
+* [Reddit Emacs](https://www.reddit.com/r/emacs/)
