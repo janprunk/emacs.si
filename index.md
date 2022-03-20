@@ -1,10 +1,16 @@
 # Welcome to Emacs Slovenia
 
 ## About Emacs Slovenia
-We are Emacs enthusiasts in|from Slovenia. You can join our [FSFE Group Slovenia mailing list](https://lists.fsfe.org/mailman/listinfo/fsfe-si). Our live chat channels are on [Discord](https://discord.com), you can join Discord "Emacs Slovenia" group by clicking the [invitation link](https://discord.gg/GDdWgMaCwc). We also meet online on [Libera](http://www.libera.chat) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network. You can chat with us, by joining the server irc.libera.chat and channel [#emacs.si](https://webchat.freenode.net/#emacs.si)
+We are Emacs enthusiasts in|from Slovenia. You can join our [FSFE Group Slovenia mailing list](https://lists.fsfe.org/mailman/listinfo/fsfe-si). Our live chat channels are on [Discord](https://discord.com), you can join Discord "Emacs Slovenia" group by clicking the [invitation link](https://discord.gg/GDdWgMaCwc). We also meet online on [Libera](http://www.libera.chat) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network. You can chat with us, by joining the server irc.libera.chat and channel [#emacs.si](https://webchat.libera.chat/#emacs.si)
 
 ## 7 April 2022 Online Meetup
-Our next online meetups will be on Thursdays, 7 April 2022 , 5 May 2022 , 2 June 2022 , 7 July 2022 each time at 20:00 CET. Our virtual meetings happen every first Thursday in month at 20:00 CET on [Libera](http://www.libera.chat) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network in channel [#emacs.si](https://webchat.freenode.net/#emacs.si)
+Our next online meetups will be on every first Thursday in a month, at 20:00 CE(S)T. Our virtual meetings happen on [Libera](http://www.libera.chat) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network in channel [#emacs.si](https://webchat.libera.chat/#emacs.si)
+* 7 April 2022 at 20:00 CEST
+* 5 May 2022 at 20:00 CEST
+* 2 June 2022 at 20:00 CEST
+* 7 July 2022 at 20:00 CEST
+* 4 August 2022 at 20:00 CEST
+* 1 September 2022 at 20:00 CEST
 
 ## Welcome beginner's
 New to Emacs? Longtime elisp expert? Just want to know what this is all about? Come join us! Can you give a presentation? Awesome, let us know. If you would like a basic introduction to Emacs, or you’re starting out and have some questions, then we are more than happy to help you. Just show up to a meeting, and there will be somebody to help you up to speed.
