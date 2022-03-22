@@ -1,6 +1,6 @@
-# Welcome to Emacs Slovenia
+# Welcome to Emacs users group Slovenia
 
-## About Emacs Slovenia
+## About Emacs users group Slovenia
 We are Emacs enthusiasts in|from Slovenia. You can join our [FSFE Group Slovenia mailing list](https://lists.fsfe.org/mailman/listinfo/fsfe-si). Our live chat channels are on [Discord](https://discord.com), you can join Discord "Emacs Slovenia" group by clicking the [invitation link](https://discord.gg/GDdWgMaCwc). We also meet online on [Libera](http://www.libera.chat) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network. You can chat with us, by joining the server irc.libera.chat and channel [#emacs.si](https://web.libera.chat/#emacs.si).
 
 ## 2022 Online Meetups
