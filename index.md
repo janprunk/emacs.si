@@ -27,3 +27,4 @@ New to Emacs? Longtime elisp expert? Just want to know what this is all about? C
 * [Reddit Emacs](https://www.reddit.com/r/emacs/)
 * [Emacs cheat card front](https://emacs-berlin.org/cheat_card_front.svg)
 * [Emacs cheat card back](https://emacs-berlin.org/cheat_card_back.svg)
+* [Emacs Conference](https://emacsconf.org/)
