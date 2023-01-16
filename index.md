@@ -1,19 +1,21 @@
 # Welcome to Emacs users group Slovenia
 
 ## About Emacs users group Slovenia
-We are Emacs enthusiasts in|from Slovenia. You can join our [FSFE Group Slovenia mailing list](https://lists.fsfe.org/mailman/listinfo/fsfe-si). Our live chat channels are on [Discord](https://discord.com), you can join Discord "Emacs Slovenia" group by clicking the [invitation link](https://discord.gg/GDdWgMaCwc). We also meet online on [Libera](http://www.libera.chat) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network. You can chat with us, by joining the server irc.libera.chat and channel [#emacs.si](https://web.libera.chat/#emacs.si). Or join our [Jitsi]( https://vidra.radiostudent.si/emacs) server.
+We are Emacs enthusiasts in|from Slovenia. You can join our [FSFE Group Slovenia mailing list](https://lists.fsfe.org/mailman/listinfo/fsfe-si). Our live chat channels are on [Discord](https://discord.com), you can join Discord "Emacs Slovenia" group by clicking the [invitation link](https://discord.gg/GDdWgMaCwc). We also meet online on [Libera](http://www.libera.chat) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network. You can chat with us, by joining the server irc.libera.chat and channel [#emacs.si](https://web.libera.chat/#emacs.si). Or join our videoconference [Jitsi]( https://vidra.radiostudent.si/emacs) server.
 
-## Online Meetups in 2022
-Our online meetups are on every first Thursday in a month, at 20:00 CE(S)T. Meetings happen on [Libera](http://www.libera.chat) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network in channel [#emacs.si](https://web.libera.chat/#emacs.si).
-* 7 April 2022 at 20:00 CEST
-* 5 May 2022 at 20:00 CEST
-* 2 June 2022 at 20:00 CEST
-* 7 July 2022 at 20:00 CEST
-* 4 August 2022 at 20:00 CEST
-* 1 September 2022 at 20:00 CEST
-* 6 October 2022 at 20:00 CEST
-* 3 November 2022 at 20:00 CET
-* 1 December 2022 at 20:00 CET
+## Online Virtual Meetups in 2023
+Our online virtual meetups are on every first Thursday in a month, at 20:00 CE(S)T. Meetings happen on [Libera](http://www.libera.chat) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network in channel [#emacs.si](https://web.libera.chat/#emacs.si) or with videoconference on the [Jitsi]( https://vidra.radiostudent.si/emacs) server.
+* 2 February 2023 at 20:00 CET
+* 2 March 2023 at 20:00 CET
+* 6 April 2023 at 20:00 CEST
+* 4 May 2023 at 20:00 CEST
+* 1 June 2023 at 20:00 CEST
+* 6 July 2023 at 20:00 CEST
+* 3 August 2023 at 20:00 CEST
+* 7 September 2023 at 20:00 CEST
+* 5 October 2023 at 20:00 CEST
+* 2 November 2023 at 20:00 CET
+* 7 December 2023 at 20:00 CET
 
 ## Welcome beginner's
 New to Emacs? Longtime elisp expert? Just want to know what this is all about? Come join us! Can you give a presentation? Awesome, let us know. If you would like a basic introduction to Emacs, or you’re starting out and have some questions, then we are more than happy to help you. Just show up to a meeting, and there will be somebody to help you up to speed.
