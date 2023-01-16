@@ -5,6 +5,7 @@ We are Emacs enthusiasts in|from Slovenia. You can join our [FSFE Group Slovenia
 
 ## Online Virtual Meetups in 2023
 Our online virtual meetups are on every first Thursday in a month, at 20:00 CE(S)T. Meetings happen on [Libera](http://www.libera.chat) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network in channel [#emacs.si](https://web.libera.chat/#emacs.si) or with videoconference on the [Jitsi]( https://vidra.radiostudent.si/emacs) server.
+* 30 January 2023 at 19:00 CET - LIVE meeting at [STA Travel Cafe/Pub](https://dogodki.kompot.si/events/d8cc520f-e3ba-4408-8852-556e5270bc43), Ajdovščina street 1, Ljubljana. 
 * 2 February 2023 at 20:00 CET
 * 2 March 2023 at 20:00 CET
 * 6 April 2023 at 20:00 CEST
