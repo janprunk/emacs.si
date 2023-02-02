@@ -1,10 +1,16 @@
 # Welcome to Emacs users group Slovenia
 
 ## About Emacs users group Slovenia
-We are Emacs enthusiasts in|from Slovenia. You can join our [FSFE Group Slovenia mailing list](https://lists.fsfe.org/mailman/listinfo/fsfe-si). Our live chat channels are on [Discord](https://discord.com), you can join Discord "Emacs Slovenia" group by clicking the [invitation link](https://discord.gg/GDdWgMaCwc). We also meet online on [Libera](http://www.libera.chat) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network. You can chat with us, by joining the server irc.libera.chat and channel [#emacs.si](https://web.libera.chat/#emacs.si). Or join our videoconference [Jitsi]( https://vidra.radiostudent.si/emacs) server.
+We are Emacs enthusiasts in|from Slovenia. You can join and write to our [FSFE Group Slovenia mailing list](https://lists.fsfe.org/mailman/listinfo/fsfe-si).
+You can join us on our virtual online chat channels:
+* On [Libera](https://www.libera.chat) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network. You can chat with us, by joining the server irc.libera.chat and channel [#emacs.si](https://web.libera.chat/#emacs.si).
+* On [OFTC](https://www.oftc.net) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network. You can chat with us, by joining the server irc.oftc.net and channel [#emacs.si](https://webchat.oftc.net).
+* On [Discord](https://discord.com), you can join Discord "Emacs Slovenia" group by clicking the [invitation link](https://discord.gg/GDdWgMaCwc).
+* On our videoconference [Jitsi]( https://vidra.radiostudent.si/emacs) server.
+* All channels are meshed.
 
 ## Virtual Online Meetups in 2023
-Our virtual online meetups are on every first Monday in a month, at 20:00 CE(S)T. Meetings happen on [Libera](http://www.libera.chat) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network in channel [#emacs.si](https://web.libera.chat/#emacs.si) or by videoconference on the [Jitsi]( https://vidra.radiostudent.si/emacs) server.
+Our virtual online meetups are on every first Monday in a month, at 20:00 CE(S)T. Virtual meetups happen over communication protocols explained above.
 * 30 January 2023 at 19:00 CET - LIVE meeting at [STA Travel Cafe/Pub](https://dogodki.kompot.si/events/d8cc520f-e3ba-4408-8852-556e5270bc43), Ajdovščina street 1, Ljubljana. 
 * 6 February 2023 at 20:00 CET
 * 6 March 2023 at 20:00 CET
