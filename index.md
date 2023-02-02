@@ -1,11 +1,15 @@
 # Welcome to Emacs users group Slovenia
 
 ## About Emacs users group Slovenia
-We are Emacs enthusiasts in|from Slovenia. You can join and write to our [FSFE Group Slovenia mailing list](https://lists.fsfe.org/mailman/listinfo/fsfe-si).
-You can join us on our virtual online chat channels:
+We are [Emacs](https://www.gnu.org/software/emacs/) enthusiasts in|from Slovenia. We meet virtualy online; and live in-person in Ljubljana, Slovenia. Our virtual online meetups are on every first Monday in a month, at 20:00 CE(S)T.
+
+## Communication
+You can join and write on our [FSFE Group Slovenia mailing list](https://lists.fsfe.org/mailman/listinfo/fsfe-si).
+
+You can join us by the following methods on our virtual online channels:
 * On [Libera](https://www.libera.chat) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network. You can chat with us, by joining the server irc.libera.chat and channel [#emacs.si](https://web.libera.chat/#emacs.si).
 * On [OFTC](https://www.oftc.net) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network. You can chat with us, by joining the server irc.oftc.net and channel [#emacs.si](https://webchat.oftc.net).
-* On [Discord](https://discord.com), you can join Discord "Emacs Slovenia" group by clicking the [invitation link](https://discord.gg/GDdWgMaCwc).
+* On [Discord](https://discord.com), you can join Discord "Emacs Slovenia" group by clicking on the [invitation link](https://discord.gg/GDdWgMaCwc).
 * On our videoconference [Jitsi]( https://vidra.radiostudent.si/emacs) server.
 * All channels are meshed.
 
