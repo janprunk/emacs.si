@@ -9,7 +9,7 @@ You can join and write on our [FSFE Group Slovenia mailing list](https://lists.f
 You can join us by the following methods on our virtual online channels:
 * On [Libera](https://www.libera.chat) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network. You can chat with us, by joining the server irc.libera.chat and channel [#emacs.si](https://web.libera.chat/#emacs.si).
 * On [OFTC](https://www.oftc.net) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network. You can chat with us, by joining the server irc.oftc.net and channel [#emacs.si](https://webchat.oftc.net).
-* On [Discord](https://discord.com), you can join Discord "Emacs Slovenia" group by clicking on the [invitation link](https://discord.gg/GDdWgMaCwc).
+* On [Discord](https://discord.com), you can join Discord channel "Emacs Slovenia" by clicking on the [invitation link](https://discord.gg/7EQfMQnbsG).
 * On our videoconference [Jitsi]( https://vidra.radiostudent.si/emacs) server.
 * All channels are meshed.
 
