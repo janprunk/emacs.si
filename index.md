@@ -1,7 +1,7 @@
 # Welcome to Emacs users group Slovenia
 
 ## About Emacs users group Slovenia
-We are [Emacs](https://en.wikipedia.org/wiki/Emacs) enthusiasts in|from Slovenia. We meet virtualy online; and live in-person in Ljubljana, Slovenia. Our meetups are on every first Monday in a month, at 20:00 CE(S)T.
+We are [Emacs](https://en.wikipedia.org/wiki/Emacs) enthusiasts in|from Slovenia. We meet virtualy online, and live in-person in Ljubljana, Slovenia. Our meetups are on every first Monday in a month, at 20:00 CE(S)T.
 
 ## Communication
 You can join and write on our [FSFE Group Slovenia mailing list](https://lists.fsfe.org/mailman/listinfo/fsfe-si).
@@ -11,10 +11,10 @@ You can join us by the following methods on our virtual online channels:
 * On [OFTC](https://www.oftc.net) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network. You can chat with us, by joining the server irc.oftc.net and channel [#emacs.si](https://webchat.oftc.net).
 * On [Discord](https://discord.com), you can join Discord channel "Emacs Slovenia" by clicking on the [invitation link](https://discord.gg/7EQfMQnbsG).
 * On our videoconference [Jitsi]( https://vidra.radiostudent.si/emacs) server.
-* All channels are meshed.
+* All channels are meshed together.
 
-## Virtual Online, and live Meetups in 2023
-Our virtual online, and live meetups are on every first Monday in a month, at 20:00 CE(S)T. Virtual meetups happen over communication protocols explained above.
+## Virtual Online, and Live Meetups in 2023
+Our virtual online, and live in-person meetups are on every first Monday in a month, at 20:00 CE(S)T. Virtual meetups happen over communication protocols explained above.
 
 * 6 March 2023 at 20:00 CET - LIVE meetup at [Osmo/za](https://www.osmoza.si/), Slovenska street 54, 8th floor (Avtotehna Skyscraper). You can check the agenda and|or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/c5630087-b9ec-4f48-9bb1-2ba337c1850f). 
 * 3 April 2023 at 20:00 CEST
