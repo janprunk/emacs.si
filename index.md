@@ -16,7 +16,7 @@ You can join us by the following methods on our virtual online channels:
 ## Virtual Online, and Live Meetups in 2023
 Our virtual online, and live in-person meetups are on every first Monday in a month, at 20:00 CE(S)T. Virtual meetups happen over communication protocols explained above.
 
-* 6 March 2023 at 20:00 CET - LIVE meetup at [Osmo/za](https://www.osmoza.si/), Slovenska street 54, 8th floor (Avtotehna Skyscraper). You can check the agenda and|or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/c5630087-b9ec-4f48-9bb1-2ba337c1850f). 
+* 6 March 2023 at 20:00 CET - LIVE meetup at [Osmo/za](https://www.osmoza.si/), Slovenska street 54, 8th floor (Avtotehna Skyscraper). You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/c5630087-b9ec-4f48-9bb1-2ba337c1850f). 
 * 3 April 2023 at 20:00 CEST
 * 1 May 2023 at 20:00 CEST
 * 5 June 2023 at 20:00 CEST
