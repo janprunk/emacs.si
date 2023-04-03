@@ -40,6 +40,7 @@ New to Emacs? Longtime elisp expert? Just want to know what this is all about? C
 
 ## External links
 * [Absolute beginners guide to GNU Emacs](http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/)
+* [HOWTO for beginners in Emacs (in Slovene language)](https://www.ibiblio.org/pub/Linux/docs/HOWTO/translations/sl/pdf/Emacs-Beginner-HOWTO-sl.pdf)
 * [Private coaching lessons for GNU Emacs](https://protesilaos.com/coach/)
 * [Sacha Chua's weekly Emacs blog](https://sachachua.com/blog)
 * [Reddit Emacs](https://www.reddit.com/r/emacs/)
