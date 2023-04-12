@@ -17,14 +17,14 @@ You can join us by the following methods on our virtual online channels:
 ## Virtual Online, and Live Meetups in 2023
 Our virtual online, and live in-person meetups are on every first Monday in a month, at 20:00 CE(S)T. Virtual meetups happen over communication protocols explained above.
 
-* May 2023 at 20:00 CEST ( exact day still has to be defined )
-* 5 June 2023 at 20:00 CEST
-* 3 July 2023 at 20:00 CEST
-* 7 August 2023 at 20:00 CEST
-* 4 September 2023 at 20:00 CEST
-* 2 October 2023 at 20:00 CEST
-* 6 November 2023 at 20:00 CET
-* 4 December 2023 at 20:00 CET
+* Wednesday, 10 May 2023 at 20:00 CEST - LIVE meetup at [Osmo/za](https://www.osmoza.si/), Slovenska street 54, 8th floor (Avtotehna skyscraper). You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/c1ecfef6-f7c4-4df2-99ef-4a7fd78c8cd6).
+* Monday, 5 June 2023 at 20:00 CEST - Virtual online meetup. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/df42cbda-6c5c-4d03-ae67-ae4a4f3e9398).
+* Monday, 3 July 2023 at 20:00 CEST
+* Monday, 7 August 2023 at 20:00 CEST
+* Monday, 4 September 2023 at 20:00 CEST
+* Monday, 2 October 2023 at 20:00 CEST
+* Monday, 6 November 2023 at 20:00 CET
+* Monday, 4 December 2023 at 20:00 CET
 
 ## Past meetings
 * #1 - 30 January 2023 at 19:00 CET - LIVE meeting at [STA Travel Cafe/Pub](https://dogodki.kompot.si/events/d8cc520f-e3ba-4408-8852-556e5270bc43), Ajdovščina street 1, Ljubljana. 
