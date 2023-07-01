@@ -17,7 +17,7 @@ You can join us by the following methods on our virtual online channels:
 ## Virtual Online, and Live Meetups in 2023
 Our virtual online, and live in-person meetups are on every first Monday in a month, at 20:00 CE(S)T. Virtual meetups happen over communication protocols explained above.
 
-* Monday, 3 July 2023 at 20:00 CEST - LIVE meeting (place still needs to be defined). You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/5e62fdfd-9401-405d-8c5e-b7b7054dbd4a).
+* Monday, 3 July 2023 at 20:00 CEST - Virtual meeting on IRC - irc.libera.chat channel #emacs.si . You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/5e62fdfd-9401-405d-8c5e-b7b7054dbd4a).
 * Monday, 7 August 2023 at 20:00 CEST
 * Monday, 4 September 2023 at 20:00 CEST
 * Monday, 2 October 2023 at 20:00 CEST
