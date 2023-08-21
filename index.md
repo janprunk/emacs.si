@@ -4,7 +4,7 @@
 We are [Emacs](https://en.wikipedia.org/wiki/Emacs) enthusiasts in|from Slovenia. We meet virtualy online, and live in-person in Ljubljana, Slovenia. Our meetups are on every first Monday in a month, at 20:00 CE(S)T.
 
 ## Communication
-You can join and write on our [FSFE Group Slovenia mailing list](https://lists.fsfe.org/mailman/listinfo/fsfe-si).
+You can join and write on [Emacs users group Slovenia mailing list](https://groups.io/g/emacs).
 
 You can join us by the following methods on our virtual online channels:
 * On [Libera](https://www.libera.chat) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network. You can chat with us, by joining the server irc.libera.chat and channel [#emacs.si](https://web.libera.chat/#emacs.si).
