@@ -15,12 +15,12 @@ You can join us by the following methods on our virtual online channels:
 * All channels are meshed together.
 
 ## Virtual Online, and Live Meetups in 2023
-Our virtual online, and live in-person meetups are on every first Monday in a month, at 20:00 CE(S)T. Virtual meetups happen over communication protocols explained above.
+Our virtual online, and/or live in-person meetups are on every first Thursday in a month, at 19:00 CE(S)T. Virtual meetups happen over communication protocols explained above.
 
-* Monday, 4 September 2023 at 20:00 CEST
-* Monday, 2 October 2023 at 20:00 CEST
-* Monday, 6 November 2023 at 20:00 CET
-* Monday, 4 December 2023 at 20:00 CET
+* Thursday, 7 September 2023 at 19:00 CEST - LIVE meeting at [Kersnikova Institute](https://kersnikova.org/en/about-us/kersnikova/), Likozarjeva street 1, Ljubljana. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/98564dd6-00a6-471d-8cdd-b7eec9aa35f4).
+* Thursday, 5 October 2023 at 19:00 CEST
+* Thursday, 2 November 2023 at 19:00 CET
+* Thursday, 7 December 2023 at 19:00 CET
 
 ## Past meetings
 * #1 - 30 January 2023 at 19:00 CET - LIVE meeting at [STA Travel Cafe/Pub](https://dogodki.kompot.si/events/d8cc520f-e3ba-4408-8852-556e5270bc43), Ajdovščina street 1, Ljubljana. 
