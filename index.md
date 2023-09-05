@@ -1,7 +1,7 @@
 # Welcome to Emacs users group Slovenia
 
 ## About Emacs users group Slovenia
-We are [Emacs](https://en.wikipedia.org/wiki/Emacs) enthusiasts in|from Slovenia. We meet virtualy online, and live in-person in Ljubljana, Slovenia. Our meetups are on every first Monday in a month, at 20:00 CE(S)T.
+We are [Emacs](https://en.wikipedia.org/wiki/Emacs) enthusiasts in|from Slovenia. We meet virtualy online, and live in-person in Ljubljana, Slovenia. Our meetups are on every first Thursday in a month, at 19:00 CE(S)T.
 
 ## Communication
 You can join and write on [Emacs users group Slovenia mailing list](https://groups.io/g/emacs).
