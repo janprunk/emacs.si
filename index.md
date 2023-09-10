@@ -1,7 +1,7 @@
 # Welcome to Emacs users group Slovenia
 
 ## About Emacs users group Slovenia
-We are [Emacs](https://en.wikipedia.org/wiki/Emacs) enthusiasts in|from Slovenia. We meet virtualy online, and live in-person in Ljubljana, Slovenia. Our meetups are on every first Thursday in a month, at 19:00 CE(S)T.
+We are [Emacs](https://en.wikipedia.org/wiki/Emacs) enthusiasts in|from Slovenia. We meet virtualy online; and live in-person in Ljubljana, Slovenia. Our live in-person meetings are on every first Thursday in a month, at 19:00 CE(S)T. Our virtual online meetings are every third Friday in a month, at 20:00 CE(S)T.
 
 ## Communication
 You can join and write on [Emacs users group Slovenia mailing list](https://groups.io/g/emacs).
@@ -15,10 +15,9 @@ You can join us by the following methods on our virtual online channels:
 * All channels are meshed together.
 
 ## Virtual Online, and Live Meetups in 2023
-Our virtual online, and/or live in-person meetups are on every first Thursday in a month, at 19:00 CE(S)T. Virtual meetups happen over communication protocols explained above.
+Our live in-person meetings are on every first Thursday in a month, at 19:00 CE(S)T. Our virtual online meetings are every third Friday in a month, at 20:00 CE(S)T.. Virtual meetings happen over communication protocols explained above.
 
-* Thursday, 7 September 2023 at 19:00 CEST - LIVE meeting at [Kersnikova Institute](https://kersnikova.org/en/about-us/kersnikova/), Likozarjeva street 1, Ljubljana. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/98564dd6-00a6-471d-8cdd-b7eec9aa35f4).
-* Thursday, 5 October 2023 at 19:00 CEST
+* Thursday, 5 October 2023 at 19:00 CEST - LIVE meeting at [Kersnikova Institute](https://kersnikova.org/en/about-us/kersnikova/), Likozarjeva street 1, Ljubljana. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/98564dd6-00a6-471d-8cdd-b7eec9aa35f4).
 * Thursday, 2 November 2023 at 19:00 CET
 * Thursday, 7 December 2023 at 19:00 CET
 
@@ -31,6 +30,7 @@ Our virtual online, and/or live in-person meetups are on every first Thursday in
 * #6 - 5 June 2023 at 20:00 CEST - Virtual online meetup. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/df42cbda-6c5c-4d03-ae67-ae4a4f3e9398).
 * #7 - 3 July 2023 at 20:00 CEST - Virtual meeting on IRC - irc.libera.chat channel #emacs.si . You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/5e62fdfd-9401-405d-8c5e-b7b7054dbd4a).
 * #8 - 7 August 2023 at 20:00 CEST
+* #9 - 7 September 2023 at 19:00 CEST - LIVE meeting at [Kersnikova Institute](https://kersnikova.org/en/about-us/kersnikova/), Likozarjeva street 1, Ljubljana. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/98564dd6-00a6-471d-8cdd-b7eec9aa35f4).
 
 ## Welcome beginners
 New to Emacs? Longtime elisp expert? Just want to know what this is all about? Come join us! If you would like a basic introduction to Emacs, or you’re starting out and have some questions, then we are more than happy to help you. Just show up to a meeting, and there will be somebody to help you up to speed. Living remote and cannot attend the meetings? No problem, you can also get [remote private coaching lessons for GNU Emacs](https://protesilaos.com/coach/). Can you give a presentation? Awesome, let us know.
