@@ -17,21 +17,21 @@ You can join us by the following methods on our virtual online channels:
 ## Virtual Online, and Live Meetups in 2023
 Our live in-person meetings are on every first Thursday in a month, at 19:00 CE(S)T. Our virtual online meetings are every third Friday in a month, at 20:00 CE(S)T. Virtual meetings happen over communication protocols explained above.
 
-* Friday, 15 September 2023 at 20:00 CEST - Virtual meeting on IRC/Discord channels, as explained above in the Communication section.
-* Thursday, 5 October 2023 at 19:00 CEST - LIVE in-person meeting at [Kersnikova Institute](https://kersnikova.org/en/about-us/kersnikova/), Likozarjeva street 1, Ljubljana. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/98564dd6-00a6-471d-8cdd-b7eec9aa35f4).
-* Thursday, 2 November 2023 at 19:00 CET
-* Thursday, 7 December 2023 at 19:00 CET
+* Friday, 13 October 2023 at 20:00 CET - Virtual meeting on IRC/Discord channels, as explained above in the Communication section.
+* Thursday, 2 November 2023 at 19:00 CEST - LIVE in-person meeting at [Kersnikova Institute](https://kersnikova.org/en/about-us/kersnikova/), Likozarjeva street 1, Ljubljana. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/98564dd6-00a6-471d-8cdd-b7eec9aa35f4).
+* Friday, 10 November 2023 at 20:00 CET - Virtual meeting on IRC/Discord channels, as explained above in the Communication section.
 
 ## Past meetings
-* #1 - 30 January 2023 at 19:00 CET - LIVE meeting at [STA Travel Cafe/Pub](https://dogodki.kompot.si/events/d8cc520f-e3ba-4408-8852-556e5270bc43), Ajdovščina street 1, Ljubljana. 
-* #2 - 6 February 2023 at 20:00 CET
-* #3 - 6 March 2023 at 20:00 CET - LIVE meetup at [Osmo/za](https://www.osmoza.si/), Slovenska street 54, 8th floor (Avtotehna Skyscraper). You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/c5630087-b9ec-4f48-9bb1-2ba337c1850f).
-* #4 - 3 April 2023 at 20:00 CEST
-* #5 - 10 May 2023 at 20:00 CEST - LIVE meetup at [Osmo/za](https://www.osmoza.si/), Slovenska street 54, 8th floor (Avtotehna skyscraper). You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/c1ecfef6-f7c4-4df2-99ef-4a7fd78c8cd6).
-* #6 - 5 June 2023 at 20:00 CEST - Virtual online meetup. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/df42cbda-6c5c-4d03-ae67-ae4a4f3e9398).
-* #7 - 3 July 2023 at 20:00 CEST - Virtual meeting on IRC - irc.libera.chat channel #emacs.si . You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/5e62fdfd-9401-405d-8c5e-b7b7054dbd4a).
-* #8 - 7 August 2023 at 20:00 CEST
-* #9 - 7 September 2023 at 19:00 CEST - LIVE meeting at [Kersnikova Institute](https://kersnikova.org/en/about-us/kersnikova/), Likozarjeva street 1, Ljubljana. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/98564dd6-00a6-471d-8cdd-b7eec9aa35f4).
+* #01 - 30 January 2023 at 19:00 CET - LIVE meeting at [STA Travel Cafe/Pub](https://dogodki.kompot.si/events/d8cc520f-e3ba-4408-8852-556e5270bc43), Ajdovščina street 1, Ljubljana. 
+* #02 - 6 February 2023 at 20:00 CET
+* #03 - 6 March 2023 at 20:00 CET - LIVE meetup at [Osmo/za](https://www.osmoza.si/), Slovenska street 54, 8th floor (Avtotehna Skyscraper). You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/c5630087-b9ec-4f48-9bb1-2ba337c1850f).
+* #04 - 3 April 2023 at 20:00 CEST
+* #05 - 10 May 2023 at 20:00 CEST - LIVE meetup at [Osmo/za](https://www.osmoza.si/), Slovenska street 54, 8th floor (Avtotehna skyscraper). You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/c1ecfef6-f7c4-4df2-99ef-4a7fd78c8cd6).
+* #06 - 5 June 2023 at 20:00 CEST - Virtual online meetup. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/df42cbda-6c5c-4d03-ae67-ae4a4f3e9398).
+* #07 - 3 July 2023 at 20:00 CEST - Virtual meeting on IRC - irc.libera.chat channel #emacs.si . You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/5e62fdfd-9401-405d-8c5e-b7b7054dbd4a).
+* #08 - 7 August 2023 at 20:00 CEST
+* #09 - 7 September 2023 at 19:00 CEST - LIVE meeting at [Kersnikova Institute](https://kersnikova.org/en/about-us/kersnikova/), Likozarjeva street 1, Ljubljana. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/98564dd6-00a6-471d-8cdd-b7eec9aa35f4).
+* #10 Thursday, 5 October 2023 at 19:00 CEST - LIVE in-person meeting at [Kersnikova Institute](https://kersnikova.org/en/about-us/kersnikova/), Likozarjeva street 1, Ljubljana. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/98564dd6-00a6-471d-8cdd-b7eec9aa35f4).
 
 ## Welcome beginners
 New to Emacs? Longtime elisp expert? Just want to know what this is all about? Come join us! If you would like a basic introduction to Emacs, or you’re starting out and have some questions, then we are more than happy to help you. Just show up to a meeting, and there will be somebody to help you up to speed. Living remote and cannot attend the meetings? No problem, you can also get [remote private coaching lessons for GNU Emacs](https://protesilaos.com/coach/). Can you give a presentation? Awesome, let us know.
