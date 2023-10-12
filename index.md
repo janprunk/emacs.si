@@ -17,9 +17,9 @@ You can join us by the following methods on our virtual online channels:
 ## Virtual Online, and Live Meetups in 2023
 Our live in-person meetings are on every first Thursday in a month, at 19:00 CE(S)T. Our virtual online meetings are every third Friday in a month, at 20:00 CE(S)T. Virtual meetings happen over communication protocols explained above.
 
-* Friday, 13 October 2023 at 20:00 CET - Virtual meeting on IRC/Discord channels, as explained above in the Communication section.
+* [Friday, 13 October 2023 at 20:00 CET](https://dogodki.kompot.si/events/eadcf11d-e832-4a70-9587-1cbcbc5b2bb7) - Virtual meeting on IRC/Discord channels, as explained above in the Communication section.
 * Thursday, 2 November 2023 at 19:00 CEST - LIVE in-person meeting at [Kersnikova Institute](https://kersnikova.org/en/about-us/kersnikova/), Likozarjeva street 1, Ljubljana. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/events/98564dd6-00a6-471d-8cdd-b7eec9aa35f4).
-* Friday, 10 November 2023 at 20:00 CET - Virtual meeting on IRC/Discord channels, as explained above in the Communication section.
+* [Friday, 10 November 2023 at 20:00 CET](https://dogodki.kompot.si/events/e4748f47-63cc-4891-8c11-ce288c3b9f4b) - Virtual meeting on IRC/Discord channels, as explained above in the Communication section.
 
 ## Past meetings
 * #01 - 30 January 2023 at 19:00 CET - LIVE meeting at [STA Travel Cafe/Pub](https://dogodki.kompot.si/events/d8cc520f-e3ba-4408-8852-556e5270bc43), Ajdovščina street 1, Ljubljana. 
