@@ -47,4 +47,5 @@ New to Emacs? Longtime elisp expert? Just want to know what this is all about? C
 * [Reddit Emacs](https://www.reddit.com/r/emacs/)
 * [GNU Emacs cheat card front](https://emacs-berlin.org/cheat_card_front.svg)
 * [GNU Emacs cheat card back](https://emacs-berlin.org/cheat_card_back.svg)
+* [Emacs X Window Manager](https://github.com/ch11ng/exwm)
 * [Emacs Conference](https://emacsconf.org/)
