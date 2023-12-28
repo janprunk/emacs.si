@@ -14,10 +14,13 @@ You can join us by the following methods on our virtual online channels:
 * Attending / commenting on the upcoming meetup event on our [Mobilizon channel](https://dogodki.kompot.si/@emacssi).
 * All channels are meshed together.
 
-## Virtual Online, and Live Meetups in 2024
+## Virtual Online, and Live Meetings in 2024
 Our live in-person meetings are on every first Thursday in a month, at 19:00 CE(S)T. Our virtual online meetings are every third Friday in a month, at 20:00 CE(S)T. Virtual meetings happen over communication protocols explained above.
 
 * Thursday, 4 January 2024 at 19:00 CEST - LIVE in-person meeting at [Kersnikova Institute](https://kersnikova.org/en/about-us/kersnikova/), Likozarjeva street 1, Ljubljana. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/).
+* Thursday, 1 February 2024 at 19:00 CEST - LIVE in-person meeting at [Kersnikova Institute](https://kersnikova.org/en/about-us/kersnikova/), Likozarjeva street 1, Ljubljana. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/).
+* Thursday, 7 March 2024 at 19:00 CEST - LIVE in-person meeting at [Kersnikova Institute](https://kersnikova.org/en/about-us/kersnikova/), Likozarjeva street 1, Ljubljana. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/).
+* Thursday, 4 April 2024 at 19:00 CEST - LIVE in-person meeting at [Kersnikova Institute](https://kersnikova.org/en/about-us/kersnikova/), Likozarjeva street 1, Ljubljana. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/).
 
 ## Past meetings
 * #01 - 30 January 2023 at 19:00 CET - LIVE meeting at [STA Travel Cafe/Pub](https://dogodki.kompot.si/events/d8cc520f-e3ba-4408-8852-556e5270bc43), Ajdovščina street 1, Ljubljana. 
