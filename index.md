@@ -46,6 +46,7 @@ New to Emacs? Longtime elisp expert? Just want to know what this is all about? C
 ## External links
 * [Absolute beginners guide to GNU Emacs](http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/)
 * [HOWTO for beginners in Emacs, translated into Slovene language](https://www.ibiblio.org/pub/Linux/docs/HOWTO/translations/sl/pdf/Emacs-Beginner-HOWTO-sl.pdf)
+* [A starting point for Gnu Emacs with good defaults and packages that most people may want to use.](https://github.com/MiniApollo/kickstart.emacs)
 * [Private coaching lessons for GNU Emacs](https://protesilaos.com/coach/)
 * [Sacha Chua's weekly Emacs blog](https://sachachua.com/blog)
 * [Sacha Chua's Braindump from radiostudent.si interview with Lio Novelli and Jurij Podgorsek: Emacs, focused time](https://sachachua.com/blog/2023/12/braindump-from-radiostudent-si-interview-with-lio-novelli-and-jurij-podgorsek-emacs-focused-time/)
