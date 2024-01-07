@@ -18,12 +18,14 @@ You can join us 24/7 by the following methods on our virtual online channels:
 * Attending / commenting on the upcoming meeting events on our [Mobilizon channel](https://dogodki.kompot.si/@emacssi).
 
 ## Live in-person and virtual online Meetings schedule in the year 2024
-Our live in-person meetings are on every first Thursday in a month, at 19:00 CE(S)T. Our virtual online meetings are every third Friday in a month, at 20:00 CE(S)T. Virtual online meetings happen over communication protocols explained above.
+Our live in-person meetings are on every first Thursday in a month, at 19:00 CE(S)T. Our virtual online meetings are every third Saturday in a month, at 20:30 CE(S)T. Virtual online meetings happen over communication protocols explained above.
 
-* Thursday, 4 January 2024 at 19:00 CEST - LIVE in-person meeting at [Kersnikova Institute](https://kersnikova.org/en/about-us/kersnikova/), Likozarjeva street 1, Ljubljana. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/).
-* Thursday, 1 February 2024 at 19:00 CEST - LIVE in-person meeting at [Kersnikova Institute](https://kersnikova.org/en/about-us/kersnikova/), Likozarjeva street 1, Ljubljana. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/).
-* Thursday, 7 March 2024 at 19:00 CEST - LIVE in-person meeting at [Kersnikova Institute](https://kersnikova.org/en/about-us/kersnikova/), Likozarjeva street 1, Ljubljana. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/).
-* Thursday, 4 April 2024 at 19:00 CEST - LIVE in-person meeting at [Kersnikova Institute](https://kersnikova.org/en/about-us/kersnikova/), Likozarjeva street 1, Ljubljana. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/).
+* Saturday, 20 January 2024 at 20:30 CET - Virtual online meeting on IRC - irc.libera.chat channel #emacs.si . You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/@emacssi)
+* Thursday, 1 February 2024 at 19:00 CET - LIVE in-person meeting at [Kersnikova Institute](https://kersnikova.org/en/about-us/kersnikova/), Likozarjeva street 1, Ljubljana. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/@emacssi).
+* Saturday, 17 February 2024 at 20:30 CET - Virtual online meeting on IRC - irc.libera.chat channel #emacs.si . You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/@emacssi)
+* Thursday, 7 March 2024 at 19:00 CET - LIVE in-person meeting at [Kersnikova Institute](https://kersnikova.org/en/about-us/kersnikova/), Likozarjeva street 1, Ljubljana. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/@emacssi).
+* Saturday, 16 March 2024 at 20:30 CET - Virtual online meeting on IRC - irc.libera.chat channel #emacs.si . You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/@emacssi)
+* Thursday, 4 April 2024 at 19:00 CEST - LIVE in-person meeting at [Kersnikova Institute](https://kersnikova.org/en/about-us/kersnikova/), Likozarjeva street 1, Ljubljana. You can check the agenda and/or confirm your attendance on [Mobilizon](https://dogodki.kompot.si/@emacssi).
 
 ## Welcome to our community
 New to Emacs? Longtime elisp expert? Just want to know what this is all about? Come join us! If you would like a basic introduction to Emacs, or you’re starting out and have some questions, then we are more than happy to help you. Just show up to a meeting, and there will be somebody to help you up to speed. Can you give a presentation? Awesome, let us know. Living remote and cannot attend the meetings? No problem, you can also get [remote private coaching lessons for GNU Emacs](https://protesilaos.com/coach/).
